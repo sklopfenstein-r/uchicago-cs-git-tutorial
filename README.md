@@ -1,4 +1,4 @@
-Trying a few more changes again
+Our last change...
 Git is pretty cool
 UChicago CS Git Tutorial
 sklopfenstien Sophie Klopfenstein
